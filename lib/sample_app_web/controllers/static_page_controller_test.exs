@@ -6,7 +6,7 @@ defmodule SampleAppWeb.StaticPageControllerTest do
       conn
       |> get(Routes.root_path(conn, :home))
 
-    html_response(conn, 200)
+    html_response(conn, )
     |> assert_select("title", "Home | Phoenix Tutorial Sample App")
   end
 
