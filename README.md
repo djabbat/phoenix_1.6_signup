@@ -1,12 +1,11 @@
 # SampleApp
 
-![image](https://github.com/djabbat/phoenix_sample/assets/8047668/c558754c-fd08-4023-8461-e44e98444ab1)
-
+![image](https://github.com/djabbat/phoenix_signup/assets/8047668/5d2d7a3b-61a5-4336-9a86-016573ea29eb)
 
 To start your Phoenix server:
 
+  * Install ~/assets$ npm install  
   * Install dependencies with `mix deps.get
-  * Install ~/assets$ npm install
   * Create and migrate your database with `mix ecto.setup`
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
